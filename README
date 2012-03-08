@@ -1,0 +1,14 @@
+Playground is a two dimensional physics simulation and game creation environment.
+
+It's the product of a UC Santa Barbara CS40 project.
+
+Posted here for posterity.
+
+"Hard things" it does:
+ - Collide rigid polygons of arbitrary shape
+
+
+Props to my fellow authors:
+ - donniekarns@gmail.com
+ - asayre@gmail.com
+ - egscott2004@gmail.com 
