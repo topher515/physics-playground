@@ -1,0 +1,8 @@
+tools.jar
+	-> Used for Dymanic Java compilation. From Java SDK 1.5 Update 6 (C) Sun Microsystems
+CodeCompiler.java
+	-> original base code and ideas (C) 'Shawn Silverman'
+vecmath.jar
+	-> From https://java3d.dev.java.net/binary-builds.html, Java 3D API
+BrowserLauncher.jar
+	-> For cross-platform detection and launching of the System's default webbrowser.  (C) 'Jeff Chapman'

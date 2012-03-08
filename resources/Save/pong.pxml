@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game>
+<Entity Class="source.ucregents.playground.physics.MovingEntity">
+<Position X="8.0" Y="205.0"/>
+<Shape IsCircle="false" IsPolygon="true" Points="1.0,160.0,1.0,250.0,15.0,250.0,15.0,160.0"/>
+<Visible>true</Visible>
+<Collidable>true</Collidable>
+<Orientation>0.0</Orientation>
+<Bounciness>1.0</Bounciness>
+<Name/>
+<FrictionConstant>0.0</FrictionConstant>
+<ShapeColor A="255" B="51" G="0" R="255"/>
+<GradientColor A="255" B="0" G="255" R="51"/>
+<DrawType>GradientLeftRight</DrawType>
+<Velocity dX="0.0" dY="0.0"/>
+<Mass>12.6</Mass>
+<IsUnstoppableForce>true</IsUnstoppableForce>
+</Entity>
+<Entity Class="source.ucregents.playground.physics.MovingEntity">
+<Position X="327.5" Y="447.3400974025974"/>
+<Shape IsCircle="false" IsPolygon="true" Points="-15.000000000000007,439.0,-15.000000000000007,455.6801948051948,670.0,455.6801948051948,670.0,439.0"/>
+<Visible>true</Visible>
+<Collidable>true</Collidable>
+<Orientation>0.0</Orientation>
+<Bounciness>1.0</Bounciness>
+<Name/>
+<FrictionConstant>0.0</FrictionConstant>
+<ShapeColor A="255" B="51" G="255" R="0"/>
+<GradientColor A="255" B="0" G="0" R="255"/>
+<DrawType>GradientTopDown</DrawType>
+<Velocity dX="0.0" dY="0.0"/>
+<Mass>92.4</Mass>
+<IsUnstoppableForce>false</IsUnstoppableForce>
+</Entity>
+<Entity Class="source.ucregents.playground.physics.MovingEntity">
+<Position X="260.0" Y="208.0"/>
+<Shape IsCircle="true" IsPolygon="false" Radius="16.0" X="252.0" Y="200.0"/>
+<Visible>true</Visible>
+<Collidable>true</Collidable>
+<Orientation>0.0</Orientation>
+<Bounciness>1.0</Bounciness>
+<Name/>
+<FrictionConstant>0.0</FrictionConstant>
+<ShapeColor A="255" B="51" G="0" R="255"/>
+<GradientColor A="255" B="0" G="255" R="51"/>
+<DrawType>GradientTopDown</DrawType>
+<Velocity dX="212.0" dY="4.0"/>
+<Mass>2.01</Mass>
+<IsUnstoppableForce>false</IsUnstoppableForce>
+</Entity>
+<Entity Class="source.ucregents.playground.physics.MovingEntity">
+<Position X="629.0" Y="210.0"/>
+<Shape IsCircle="false" IsPolygon="true" Points="622.0,165.0,622.0,255.0,636.0,255.0,636.0,165.0"/>
+<Visible>true</Visible>
+<Collidable>true</Collidable>
+<Orientation>0.0</Orientation>
+<Bounciness>1.0</Bounciness>
+<Name/>
+<FrictionConstant>0.0</FrictionConstant>
+<ShapeColor A="255" B="51" G="255" R="0"/>
+<GradientColor A="255" B="0" G="0" R="255"/>
+<DrawType>GradientLeftRight</DrawType>
+<Velocity dX="0.0" dY="0.0"/>
+<Mass>12.6</Mass>
+<IsUnstoppableForce>true</IsUnstoppableForce>
+</Entity>
+<Entity Class="source.ucregents.playground.physics.MovingEntity">
+<Position X="342.5" Y="8.340097402597394"/>
+<Shape IsCircle="false" IsPolygon="true" Points="-7.105427357601002E-15,0.0,-7.105427357601002E-15,16.680194805194787,685.0,16.680194805194787,685.0,0.0"/>
+<Visible>true</Visible>
+<Collidable>true</Collidable>
+<Orientation>0.0</Orientation>
+<Bounciness>1.0</Bounciness>
+<Name/>
+<FrictionConstant>0.0</FrictionConstant>
+<ShapeColor A="255" B="0" G="0" R="255"/>
+<GradientColor A="255" B="51" G="255" R="0"/>
+<DrawType>GradientTopDown</DrawType>
+<Velocity dX="0.0" dY="0.0"/>
+<Mass>92.4</Mass>
+<IsUnstoppableForce>false</IsUnstoppableForce>
+</Entity>
+</Game>
